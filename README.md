@@ -1,4 +1,4 @@
-# BigQueryとVSCode+GitHUb CopilotやCursosrでBigQueryのAIコーディングする練習問題リポジトリ
+# BigQueryとVSCode+GitHUb CopilotやCursorでBigQueryのAIコーディングをしよう〜練習問題リポジトリ〜
 
 ## はじめに
 
