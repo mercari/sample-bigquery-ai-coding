@@ -1,8 +1,9 @@
-# BigQuery と AI コーディングアシスタントを活用したデータ分析練習リポジトリ
+# BigQueryとVSCode+GitHUb CopilotやCursosrでBigQueryのAIコーディングする練習問題リポジトリ
 
 ## はじめに
 
-* このリポジトリは、データアナリストの方、特にVS CodeとGitHub Copilot、あるいはCursorのようなエディタ+AIコーディングアシスタントを使い始めたばかり/使用を検討している方を対象としています。  
+* このリポジトリは[Mercari Analytics Blogの記事](https://note.com/mercari_data/n/nfca7f28f1094)内の練習問題を格納したものです。
+* データアナリストの方、特にVS CodeとGitHub Copilot、あるいはCursorのようなエディタ+AIコーディングアシスタントを使い始めたばかり/使用を検討している方を対象としています。  
 * BigQueryのオープンデータセット `thelook_ecommerce` を活用した実践的なSQLクエリのサンプルを通じて、データ分析のスキルアップとAIを活用した開発フローを体験することを目的としています。
 
 ## このリポジトリでできること
